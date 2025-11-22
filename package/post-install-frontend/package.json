@@ -1,0 +1,24 @@
+{
+  "name": "post-install-frontend",
+  "version": "1.0.0",
+  "description": "A front end (webpage) containing the post install command for our development environmant ",
+  "homepage": "https://github.com/111830/avg-dev#readme",
+  "bugs": {
+    "url": "https://github.com/111830/avg-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/111830/avg-dev.git"
+  },
+  "license": "ISC",
+  "author": "Renis Ndregjoni",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
