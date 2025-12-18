@@ -1,8 +1,12 @@
 #include <iostream>
-using namespace std;
+
+consteval int get_value(){
+    return 3;
+}
 
 int main() {
-    cout << "Hello, World!\n" << endl;
+    constexpr int value = get_value();
+    std::cout << "value: " << value << std::endl;
 
     return 0;
 }
