@@ -47,3 +47,4 @@ curl -L https://raw.githubusercontent.com/catppuccin/gnome-terminal/v0.3.0/insta
 echo "All done! You will now need to perform these manual steps to complete the installation:"
 echo "1. Refresh shell environment: source ~/.bashrc." 
 echo "2. For tmux, be sure to install the plugins in ~/.tmux.conf with prefix key + I and then run tmux source ~/.tmux.conf."
+
