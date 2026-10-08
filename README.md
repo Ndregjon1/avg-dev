@@ -34,11 +34,11 @@ This is what defines a real Software Engineer—the ability to build the tools t
 | 🔜 Soon |
 
 
-### Operating Systems
-| Operating System Concepts | Linux Kernel Development |
-| :---: | :---: |
-| <img src="https://m.media-amazon.com/images/I/81SwKCia7VL._SY425_.jpg" width="160"> | <img src="https://m.media-amazon.com/images/I/71XZDw6YgcL._SY425_.jpg" width="160"> |
-| ⚙️ In Progress | ⚙️ In Progress |
+### Operating Systems / Kernel / Network
+| Operating System Concepts | Linux Kernel Development | Computer Networking: A Top-Down Approach |
+| :---: | :---: | :---: |
+| <img src="https://m.media-amazon.com/images/I/81SwKCia7VL._SY425_.jpg" width="160"> | <img src="https://m.media-amazon.com/images/I/71XZDw6YgcL._SY425_.jpg" width="160"> | <img src="https://ketab-shoma.ir/wp-content/uploads/2026/07/Computer-Networking-A-Top-Down-Approach-9th.jpg" width="160"> |
+| ⚙️ In Progress | ⚙️ In Progress | ⚙️ In Progress | 
 
 
 
